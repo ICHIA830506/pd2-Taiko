@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgsound.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bulletnew.png</file>
+        <file>enemynew.png</file>
+        <file>playernew.png</file>
+        <file>enemy2new.png</file>
+        <file>dumeblack.png</file>
+        <file>dumenew.png</file>
+        <file>window.png</file>
+        <file>logo.png</file>
+        <file>endwindow.png</file>
+        <file>bgnew.png</file>
+    </qresource>
+</RCC>
